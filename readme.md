@@ -1,6 +1,6 @@
 # Fluent Cursor
 
-简体中文 | English
+[简体中文](#中文说明) | [English](#English)
 
 ---
 
@@ -20,6 +20,17 @@ Fluent Cursor 是一个为 Windows 11 设计的用户级光标方案安装包。
 - 易于安装、升级与卸载
 
 ---
+
+## 特性
+
+- Windows 11 风格设计
+- 支持 Light / Dark 两套方案
+- 支持 HiDPI 高分辨率显示器
+- 支持 125%、150%、175%、200% 等缩放比例
+- 用户级安装
+- 无需管理员权限
+- 不修改系统目录
+- 易于升级与卸载
 
 ## 可用方案
 
@@ -189,6 +200,17 @@ This project repackages the original cursor artwork with a modern installation m
 - Easy installation, upgrade and removal
 
 ---
+
+## Features
+
+- Windows 11 Fluent design
+- Light and Dark cursor schemes
+- HiDPI display support
+- Optimized for 125%, 150%, 175% and 200% scaling
+- User-level installation
+- No administrator privileges required
+- No modification of system cursor files
+- Easy upgrade and removal
 
 ## Available Schemes
 
