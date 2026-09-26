@@ -175,7 +175,7 @@ Windows Black
 
 原始作品：
 
-**Windows 11 Cursors Concept HDPI**
+[**Windows 11 Cursors Concept HDPI**](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-HD-v2-890672103)
 
 本项目仅重新设计安装方式，使其更加符合现代 Windows 11 用户级部署模式。
 
@@ -351,7 +351,7 @@ Original cursor artwork by:
 
 Original work:
 
-**Windows 11 Cursors Concept HDPI**
+[**Windows 11 Cursors Concept HDPI**](https://www.deviantart.com/jepricreations/art/Windows-11-Cursors-HD-v2-890672103)
 
 This project only redesigns the installation method to better fit modern Windows 11 user-profile deployment.
 
