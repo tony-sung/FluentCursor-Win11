@@ -1,5 +1,6 @@
 # Fluent Cursor
-
+![mainImage](image/deqa6zr-bb5f5c35-6bd3-4c9c-84c9-b0846c221095.jpg)
+![DynamicImage](image/deqa6zr-510a5d16-688d-4606-88fe-da612b5ab667.gif)
 [简体中文](#中文说明) | [English](#English)
 
 ---
